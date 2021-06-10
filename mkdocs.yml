@@ -1,0 +1,10 @@
+site_name: 'Sauce Labs Open Source'
+docs_dir: content
+
+nav:
+  - Docs: docs/_index.md
+  - Blog: blog/_index.md
+
+plugins:
+  - techdocs-core
+
